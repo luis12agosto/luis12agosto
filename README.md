@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Lewis Vega (@luis12agosto)
+- 👋 Hi
 
 
 <!--- - 👀 I’m interested in ...
